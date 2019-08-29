@@ -1,3 +1,3 @@
 # hello world
 ## Say hello to the world
-![hello](https://img.shields.io/github/release/crimx/ext-saladict.svg?label=hello%3fworld)
+![hello](https://img.shields.io/github/release/Stephen30Yan/hello-world.svg?label=hello%20world)
