@@ -1,3 +1,3 @@
 # hello world
 ## Say hello to the world
-[hello](www.google.com)
+[hello](https://github.com/Stephen30Yan/hello-world)
