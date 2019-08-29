@@ -1,4 +1,3 @@
-# hello-world
-Exercise
-I want to learn sth here!
-![what](http://www.enbulake.com/themes/img/about_embraco_01.jpg)
+# Saladict 沙拉查词
+
+[![Version](https://img.shields.io/github/release/crimx/ext-saladict.svg?label=version)]
