@@ -1,3 +1,3 @@
-# Saladict 沙拉查词
+#hello world
 
-[![Version](https://img.shields.io/github/release/crimx/ext-saladict.svg?label=version)]
+Say hello to the world
